@@ -80,7 +80,7 @@ Assistant
 	shoes = /obj/item/clothing/shoes/jackboots/warm
 	mask = /obj/item/clothing/mask/balaclava
 	back = /obj/item/weapon/storage/backpack/stalker/tourist
-	backpack_contents = list(/obj/item/stack/spacecash/c5000 = 1,
+	backpack_contents = list(/obj/item/stack/spacecash/c5000 = 2,
 							/obj/item/ammo_box/stalker/b9x19 = 1,
 							/obj/item/ammo_box/magazine/stalker/m9x19mp5 = 1,
 							/obj/item/ammo_box/magazine/stalker/m9x18pm = 1,
